@@ -1,3 +1,3 @@
 geometry_msgs/Twist twist_msg
-bool teleop_enabled
+string direction
 string nav_type
